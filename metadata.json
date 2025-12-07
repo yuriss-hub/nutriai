@@ -1,0 +1,5 @@
+{
+  "name": "NutriSimulador AI",
+  "description": "Um simulador nutricional inteligente que calcula calorias e macronutrientes de qualquer alimento usando IA.",
+  "requestFramePermissions": []
+}
